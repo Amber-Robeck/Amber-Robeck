@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Coding bootcamp through the Univeristy of Minnesota
-- 🌱 I’m currently learning ... Node.js
+- 🌱 I’m currently learning ... mySql
 - 👯 I’m looking to collaborate on ... any projects!
 - 🤔 I’m looking for help with ... becomming an unreplaceable asset to the coding industry
 - 💬 Ask me about ... Anything

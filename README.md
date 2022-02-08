@@ -12,3 +12,5 @@
 - 📫 How to reach me: ... arr5533@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... Dreamt is the only English word that ends in the letters mt.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amber-Robeck)](https://github.com/anuraghazra/github-readme-stats)

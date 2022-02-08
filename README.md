@@ -2,7 +2,8 @@
 
 ![Amber Robeck (1)](https://user-images.githubusercontent.com/94136164/152915609-4edd1a0e-be0a-4fc4-96e4-8c7de3b3565c.gif)
 
-### Hi there 👋
+
+### Well hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on ... Coding bootcamp through the Univeristy of Minnesota
 - 🌱 I’m currently learning ... mySql
@@ -11,10 +12,12 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... arr5533@gmail.com
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amber-Robeck&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amber-Robeck&theme=midnight-purple&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats) 
+## 😂 Here is a random joke that'll make you laugh!
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amber-Robeck&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amber-Robeck&theme=midnight-purple&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ## Connect with me:

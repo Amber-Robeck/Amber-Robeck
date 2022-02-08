@@ -1,3 +1,7 @@
+
+https://user-images.githubusercontent.com/94136164/152914217-035d2e75-2b04-49a2-afff-a2ca583e347c.mp4
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Coding bootcamp through the Univeristy of Minnesota
@@ -8,5 +12,3 @@
 - 📫 How to reach me: ... arr5533@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... Dreamt is the only English word that ends in the letters mt.
-
-

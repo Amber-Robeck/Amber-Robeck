@@ -10,7 +10,28 @@
 - 🤔 I’m looking for help with ... becomming an unreplaceable asset to the coding industry
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... arr5533@gmail.com
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... Dreamt is the only English word that ends in the letters mt.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amber-Robeck&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amber-Robeck&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)           [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amber-Robeck&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+## Connect with me:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amber-robeck/)
+
+---
+
+## Languages and Tools:
+
+<p float="left">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>

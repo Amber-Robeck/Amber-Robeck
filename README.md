@@ -1,5 +1,4 @@
 
-https://user-images.githubusercontent.com/94136164/152914217-035d2e75-2b04-49a2-afff-a2ca583e347c.mp4
 
 
 ### Hi there 👋

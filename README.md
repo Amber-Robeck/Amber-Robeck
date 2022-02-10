@@ -6,7 +6,7 @@
 ### Well hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on ... Coding bootcamp through the Univeristy of Minnesota
-- 🌱 I’m currently learning ... mySql
+- 🌱 I’m currently learning ... MongoDB and React!
 - 👯 I’m looking to collaborate on ... any projects!
 - 🤔 I’m looking for help with ... becomming an unreplaceable asset to the coding industry
 - 💬 Ask me about ... Anything

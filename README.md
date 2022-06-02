@@ -3,7 +3,7 @@
 ![Amber Robeck (1)](https://user-images.githubusercontent.com/94136164/152915609-4edd1a0e-be0a-4fc4-96e4-8c7de3b3565c.gif)
 
 
-### Well hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Well hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 - 🔭 I’m currently working on ... Continuous improvement of my development skills!
 - 🌱 I’m currently learning ... MongoDB and React!
